@@ -20,10 +20,10 @@ const int FIRMWARE_EXPECTED_VERSION = 19;
 // UNIQUE ----- CHANGE THIS ONE OTHERWISE IT WONT CONNECT TO MQTT
 #define BOARD_NAME "esp8266_tenda_andrea"
 
-#define WIFI_SSID "It Burns When IP"
-#define WIFI_PASSWORD "Pippero64"
+#define WIFI_SSID "WIFI NAME"
+#define WIFI_PASSWORD "WIFI PASS"
 
-#define MQTT_HOST "myhomeipdk.hopto.org"
+#define MQTT_HOST "MQTTHOST.org"
 #define MQTT_PORT 1883
 
 const int WIND_MIN_INTST_REPORTED_SPEED_KPS = 15;
